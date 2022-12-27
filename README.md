@@ -1,6 +1,5 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Forks][forks-shield]][forks-url]
 
 
 <br />
@@ -32,9 +31,7 @@ This mod, which completely replaces units, will immerse you in the amazing sci-f
 
 
 
-[forks-shield]: https://img.shields.io/github/forks/ShYK-inc/WWN-Lore?style=for-the-badge&color=green
-[forks-url]: https://github.com/ShYK-inc/WWN-Lore/network/members
-[issues-shield]: https://img.shields.io/github/issues/ShYK-inc/WWN-Lore?style=for-the-badge&color=red
+[issues-shield]: https://img.shields.io/github/issues/ShYK-inc/WWN-Lore?style=for-the-badge&color=red&logo=github&logoColor=red
 [issues-url]: https://github.com/ShYK-inc/WWN-Lore/issues
-[stars-shield]: https://img.shields.io/github/stars/ShYK-inc/WWN-Lore?style=for-the-badge&color=yellow
+[stars-shield]: https://img.shields.io/github/stars/ShYK-inc/WWN-Lore?style=for-the-badge&color=yellow&logo=github&logoColor=yellow
 [stars-url]: https://github.com/ShYK-inc/WWN-Lore/stargazers
