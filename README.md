@@ -1,8 +1,15 @@
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Forks][forks-shield]][forks-url]
+
+
+<br />
+<p align="center">
+  <a href="https://github.com/ShYK-inc/WWN-Lore">
+    <img src="/logo.png" alt="Logo" width="240" height="240">
+  </a>
+
 <div align="center">
-
-
-<img src="/logo.png" width="240px" />
-
 
 [![Steam](https://img.shields.io/static/v1?label=Steam&message=WWN&color=blue&logo=steam&style=flat)](https://steamcommunity.com/sharedfiles/filedetails/?id=2604408675)
 [![Discord](https://img.shields.io/discord/896424611368026223?color=green&label=Discord&logo=discord&logoColor=blue&style=flat)](https://discord.gg/sRwKDGrbDy)
@@ -22,3 +29,12 @@ This mod, which completely replaces units, will immerse you in the amazing sci-f
 <div align="left">
 
 Данный мод, полностью заменяющий юниты, погрузит вас в удивительную научно-фантастическую вселенную WarWorldNationals. Возводите базу, стройте армию и флот, проводите бои на различных планетах, захватывайте системы. Проверьте свои стратегические навыки. Выберите одну из сторон конфликта и приведите ее к победе.История мода берет начало в 2016 году с создания настольной игры по мотивам классических RTS. Игра развивалась и улучшалась, вводились разные механики и стороны конфликта, а вместе с тем возникала вселенная со своим лором, богатым на различные события и разнообразным населением - вселенная WarWorldNationals. Спустя время, после некоторых попыток было решено создать мод на Rusted Warfare. И вот, спустя месяц работы наша команда готова представить бету нашего мода. Было проделано много работы, чтобы вам было приятно играть в одиночку или с друзьями
+
+
+
+[forks-shield]: https://img.shields.io/github/forks/ShYK-inc/WWN-Lore?style=for-the-badge&color=green
+[forks-url]: https://github.com/ShYK-inc/WWN-Lore/network/members
+[issues-shield]: https://img.shields.io/github/issues/ShYK-inc/WWN-Lore?style=for-the-badge&color=red
+[issues-url]: https://github.com/ShYK-inc/WWN-Lore/issues
+[stars-shield]: https://img.shields.io/github/stars/ShYK-inc/WWN-Lore?style=for-the-badge&color=yellow
+[stars-url]: https://github.com/ShYK-inc/WWN-Lore/stargazers
