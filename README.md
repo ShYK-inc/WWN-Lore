@@ -10,8 +10,8 @@
 
 <div align="center">
 
-[![Steam](https://img.shields.io/static/v1?label=Steam&message=WWN&color=blue&logo=steam&style=flat)](https://steamcommunity.com/sharedfiles/filedetails/?id=2604408675)
-[![Discord](https://img.shields.io/discord/896424611368026223?color=green&label=Discord&logo=discord&logoColor=blue&style=flat)](https://discord.gg/sRwKDGrbDy)
+[![Steam](https://img.shields.io/static/v1?label=Steam&message=WWN&color=blue&logo=steam&logoColor=blue&style=flat)](https://steamcommunity.com/sharedfiles/filedetails/?id=2604408675)
+[![Discord](https://img.shields.io/discord/896424611368026223?color=green&label=Discord&logo=discord&logoColor=green&style=flat)](https://discord.gg/sRwKDGrbDy)
 [![YouTube](https://img.shields.io/static/v1?label=YouTube&message=ShYK&color=red&logo=youtube&style=flat&logoColor=red)](https://www.youtube.com/@shykinc4860)
 
 
